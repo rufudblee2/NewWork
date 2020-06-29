@@ -1,0 +1,132 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS/11 Pro – 1;
+	--web-view-id: iPhone_XXS11_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_XXS11_Pro__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_XXS11_Pro__1 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS/11 Pro – 1;
+	--web-view-id: iPhone_XXS11_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Banner {
+	position: absolute;
+	width: 375px;
+	height: 114px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Rectangle_1_i {
+	fill: url(#Rectangle_1_i);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_i {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 114px;
+	left: 0px;
+	top: 0px;
+}
+#Audiowings_Name {
+	position: absolute;
+	width: 202px;
+	height: 35px;
+	left: 87px;
+	top: 30px;
+	overflow: visible;
+}
+#AUDIOWINGS {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Corsiva Hebrew;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(252,249,249,1);
+}
+#Current_Playlist {
+	position: absolute;
+	width: 136px;
+	height: 23px;
+	left: 120px;
+	top: 73px;
+	overflow: visible;
+}
+#Current_Playlist_m {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(253,248,248,1);
+}
+
+.playlist-image {
+	margin-top: 150px;
+	text-align: center;
+}
+
+.playlist-image img {
+	border-radius: 100%;
+}
+
+.playlist-container ul{
+	padding: 10px;
+}
+
+.playlist-container ul {
+	list-style: none;
+}
+
+.playlist-container ul li{
+	padding: 10px;
+	background: rgb(116, 116, 119);
+	color: white;
+	cursor: pointer;
+	border-bottom: 1px solid rgb(92, 91, 91);
+}
+
+.time{
+	float: right;
+}
+
+.audio-player{
+	margin-top: 30px;
+	width: 100%;
+	padding: 20px;
+	text-align: center;
+}
+

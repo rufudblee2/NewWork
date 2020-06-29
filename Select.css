@@ -1,0 +1,260 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS/11 Pro – 1;
+	--web-view-id: iPhone_XXS11_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_XXS11_Pro__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_XXS11_Pro__1 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS/11 Pro – 1;
+	--web-view-id: iPhone_XXS11_Pro__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Banner {
+	position: absolute;
+	width: 375px;
+	height: 114px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#Rectangle_1_i {
+	fill: url(#Rectangle_1_i);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1_i {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 114px;
+	left: 0px;
+	top: 0px;
+}
+#Playlist_container {
+	position: absolute;
+	width: 347px;
+	height: 629px;
+	left: 14px;
+	top: 145px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	fill: rgba(250,251,252,1);
+	stroke: rgba(203,200,200,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 347px;
+	height: 629px;
+	left: 0px;
+	top: 0px;
+}
+#Select_a_Playlist {
+	left: 58px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial Black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(112,112,112,1);
+}
+#Group_3 {
+	position: absolute;
+	width: 290px;
+	height: 58px;
+	left: 43px;
+	top: 293px;
+	overflow: visible;
+}
+#Afrobeat_container {
+	position: absolute;
+	width: 290px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	opacity: 0.454;
+	fill: rgba(214,213,213,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Afrobeats {
+	position: absolute;
+	width: 107px;
+	height: 28px;
+	left: 91px;
+	top: 10px;
+	overflow: visible;
+}
+#Afrobeats_q {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial Black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(2,73,170,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 290px;
+	height: 58px;
+	left: 43px;
+	top: 398px;
+	overflow: visible;
+}
+#Hits_from_the_past_container {
+	position: absolute;
+	width: 290px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: rgba(234,234,235,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 58px;
+	left: 0px;
+	top: 0px;
+}
+#Hits_from_the_past {
+	position: absolute;
+	width: 198px;
+	height: 28px;
+	left: 46px;
+	top: 13px;
+	overflow: visible;
+}
+#Hits_from_the_past_v {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial Black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(2,73,170,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 290px;
+	height: 57px;
+	left: 43px;
+	top: 511px;
+	overflow: visible;
+}
+#MJ_Container {
+	position: absolute;
+	width: 290px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(234,234,235,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+}
+#MJ {
+	position: absolute;
+	width: 32px;
+	height: 28px;
+	left: 129px;
+	top: 16px;
+	overflow: visible;
+}
+#MJ_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial Black;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(2,73,170,1);
+}
+#Audiowings_Name {
+	position: absolute;
+	width: 202px;
+	height: 35px;
+	left: 87px;
+	top: 30px;
+	overflow: visible;
+}
+#AUDIOWINGS {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Corsiva Hebrew;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(252,249,249,1);
+}
